@@ -1,1 +1,1 @@
-Bu klasörde "555AB12" kontrolünün "Kabul" görüldüğü ekran görüntüleri bulunuyor.
+Bu klasörde "555AB12" kontrolünün "Red" görüldüğü ekran görüntüleri bulunuyor.
