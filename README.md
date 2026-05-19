@@ -1,0 +1,1 @@
+# Plaka-Taniyici-Turing-Makinesi
